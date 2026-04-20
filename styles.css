@@ -11063,7 +11063,7 @@ body {
   border: 0;
 }
 
-.masthead {
+.masthead, #łąka2 {
   position: relative;
   width: 100%;
   height: auto;
@@ -11141,7 +11141,7 @@ body {
   }
 }
 
-.signup-section {
+.signup-section, #łąka {
   padding: 10rem 0;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("łąka.jpeg");
   background-position: center;
